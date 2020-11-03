@@ -1,5 +1,10 @@
 # Art_Attacc_PROTOTYPE
- Final project for Holberton AR/VR specialization.
+This virtual reality experience is my final project for Holberton AR/VR specialization.
+
+In this experience, the player can walk around a museum and destroy famous works of art. It uses Oculus-Unity integration and is developed specifically for the Oculus Quest.
+
+Through this project I wanted to learn several different coding and Unity concepts. These concepts include working with colliders in VR, becoming more familiar with the OVR player controller, using distance grabbing, beginning with Unity's particle system and how it extends to scripting, becoming more familiar with audio in Unity, and incorporating and altering 3rd-party assets.
+
 
 ### Incomplete Features
 * Information on the artwork. I'd like to set up a display that the user can read about each piece of art and an astonishing fact about it that really solidifies the horror over destroying it.
