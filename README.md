@@ -1,13 +1,22 @@
 # Art_Attacc_PROTOTYPE
 This virtual reality experience is my final project for Holberton AR/VR specialization.
 
-In this experience, the player can walk around a museum and destroy famous works of art. It uses Oculus-Unity integration and is developed specifically for the Oculus Quest.
+In this experience, the player can walk around a museum, enjoy famous works of art, and learn some general information about them. One of the works of art is an ancient and mysterious axe. Be careful not to pick it up though! The desire to knock over and destroy the other pieces of art might be too great if you do! 
 
-Through this project I wanted to learn several different coding and Unity concepts. These concepts include working with colliders in VR, becoming more familiar with the OVR player controller, using distance grabbing, beginning with Unity's particle system and how it extends to scripting, becoming more familiar with audio in Unity, and incorporating and altering 3rd-party assets.
+This experience uses Oculus-Unity integration and is developed specifically for the Oculus Quest.
+
+Through this project I wanted to learn several different coding and Unity concepts. Here are some of the concepts included in this project:
+* Collider interaction in VR
+* Raycasters and how Oculus uses Gaze Pointers
+* Working with OVR Player Controller
+* Implementing distance grabbing
+* Learning Unity's particle system and how it extends to scripting
+* Becoming more familiar with audio in Unity
+* Incorporating and altering 3rd-party assets.
 
 
 ### Incomplete Features
-* Information on the artwork. I'd like to set up a display that the user can read about each piece of art and an astonishing fact about it that really solidifies the horror over destroying it.
+* ~~Information on the artwork. I'd like to set up a display that the user can read about each piece of art and an astonishing fact about it that really solidifies the horror over destroying it.~~ *This feature has been implemented successfully!*
 * Unique destruction for each piece of art. Each work should have a unique destruction animation. The glass covering the paintings should crack, and the canvas should tear. Statues should crumble in a realistic way.
 * Multiple methods of destruction. As of now there is an axe the user needs to find and use to destroy the other works. Ultimately there will be **dozens** of items that can be used to destroy the art. This includes spray paint, a squirt gun filled with ink, a sledgehammer, a gun, and a painter's pallette. With the pallette the user will be able to paint directly on the art and add to it. The pallette should interpret the artwork being defaced and provide the user will a color pallette that fits the specific artwork.
 * Put this experience onto the web using WebXR, so the player can access the game directly from their headset's browser rather than loading an APK or going through a game store.
