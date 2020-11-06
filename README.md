@@ -5,6 +5,8 @@ In this experience, the player can walk around a museum, enjoy famous works of a
 
 This experience uses Oculus-Unity integration and is developed specifically for the Oculus Quest.
 
+![Imgur](https://imgur.com/9IYYknn)
+
 ### Directions
 Download the APK from [this link](). Follow the instructions on [this website]() to sideload the APK onto your Oculus Quest then fire up the experience.
 
