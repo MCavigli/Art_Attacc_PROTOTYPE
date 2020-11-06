@@ -5,14 +5,19 @@ In this experience, the player can walk around a museum, enjoy famous works of a
 
 This experience uses Oculus-Unity integration and is developed specifically for the Oculus Quest.
 
-![Imgur](https://imgur.com/9IYYknn)
+![](https://imgur.com/OwCJWyP.jpg)
 
 ### Directions
 Download the APK from [this link](). Follow the instructions on [this website]() to sideload the APK onto your Oculus Quest then fire up the experience.
 
 You can **teleport** around the map using **the right or left thumbstick**. Push out to trigger the teleportation reticle, then move your thumb around to rotate the arrow and specify which direction you'd like to face.
+![teleport](https://imgur.com/H0lmuX6.jpg)
+
 
 If you look directly at a work of art you'll see a prompt that says "Press 'A' for more info". If you press **A** while you see this prompt, you'll be able to read information about that work of art. Press **A** again to dismiss. *(Note: this feature is a teeny bit finicky right now. When you want to dismiss the panel, you'll need to look away from the art work then press **A**.)*
+![prompt](https://i.imgur.com/leZtjKM.png.jpg)
+![UI](https://i.imgur.com/jXqSQiZ.jpg)
+
 
 **To grab the axe**, get close it it, aim your right hand at it and press the **grib button trigger** (it's the one your middle finger rests on). While holding down this button you can swing the axe around. Let go of the button to drop it.
 
