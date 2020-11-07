@@ -3,7 +3,13 @@ guid: 817a2bd1364231741af90d9a69afd173
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nit_estelada
+    second: {fileID: -4453463434295393725, guid: 817a2bd1364231741af90d9a69afd173,
+      type: 3}
   materials:
     materialImportMode: 1
     materialName: 0
