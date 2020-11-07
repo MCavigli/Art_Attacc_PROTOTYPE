@@ -8,7 +8,11 @@ This experience uses Oculus-Unity integration and is developed specifically for 
 ![](https://imgur.com/OwCJWyP.jpg)
 
 ### Directions
-The experience is currently unable to try out as I'm having trouble building it from Unity. Nevertheless, here are the directions on how to play.
+The experience is currently unable to try out as I'm having trouble building it from Unity.
+
+[Click here](https://www.dropbox.com/s/d1o8tjrlab61xzw/art_attacc.mov?dl=0) to watch a video demonstration of the project.
+
+Nevertheless, here are the directions on how to play.
 
 You can **teleport** around the map using **the right or left thumbstick**. Push out to trigger the teleportation reticle, then move your thumb around to rotate the arrow and specify which direction you'd like to face.
 ![teleport](https://imgur.com/H0lmuX6.jpg)
