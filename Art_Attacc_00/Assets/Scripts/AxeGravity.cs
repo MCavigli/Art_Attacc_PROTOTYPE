@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class AxeGravity : MonoBehaviour
 {
+    ///
+    /// NOT CURRENTLY USED IN PROJECT
+    ///
     bool grav = false;
     Rigidbody axe;
     Collider axeCollider;

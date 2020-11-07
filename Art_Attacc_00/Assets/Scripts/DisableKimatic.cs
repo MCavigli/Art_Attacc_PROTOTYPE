@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class DisableKimatic : MonoBehaviour
 {
+    ///
+    /// NOT CURRENTLY USED IN PROJECT
+    ///
     Collider coll;
     public Collider axe;
 

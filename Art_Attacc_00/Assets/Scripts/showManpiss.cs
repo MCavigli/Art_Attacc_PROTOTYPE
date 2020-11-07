@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class showManpiss : MonoBehaviour
 {
+    ///
+    /// OLD CODE. NO LONGER USED IN PROJECT
+    ///
     public GameObject manText;
     public void showMan()
     {

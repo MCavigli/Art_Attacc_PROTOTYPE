@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class showMona : MonoBehaviour
 {
+    ///
+    /// OLD CODE. NO LONGER USED IN PROJECT
+    ///
     public GameObject monaText;
     public void showM()
     {

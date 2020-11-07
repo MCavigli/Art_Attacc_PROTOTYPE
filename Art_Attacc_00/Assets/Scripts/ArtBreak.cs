@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class ArtBreak : MonoBehaviour
 {
+    ///
+    /// USED FOR TESTING PURPOSES
+    ///
     public Collider axe;
     Collider art;
 

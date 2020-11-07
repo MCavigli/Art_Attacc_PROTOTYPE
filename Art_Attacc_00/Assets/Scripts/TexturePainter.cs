@@ -4,6 +4,9 @@
 /// If you are interested in saving the painted texture you can use the method at the end and should save it to a file.
 /// </summary>
 
+///
+/// VARIANT WILL BE USED IN FUTURE METHOD OF DESTRUCTION
+///
 
 using UnityEngine;
 using UnityEngine.UI;
