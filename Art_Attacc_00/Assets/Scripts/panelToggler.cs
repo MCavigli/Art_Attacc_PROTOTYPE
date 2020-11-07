@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class panelToggler : MonoBehaviour
 {
+    ///
+    /// Code to trigger all the different work of art's UI
+    ///
     public GameObject monaText;
 
     public GameObject starText;
