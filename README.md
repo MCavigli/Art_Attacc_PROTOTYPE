@@ -8,8 +8,6 @@ This experience uses Oculus-Unity integration and is developed specifically for 
 ![](https://imgur.com/OwCJWyP.jpg)
 
 ### Directions
-The experience is currently unable to try out as I'm having trouble building it from Unity.
-
 [Click here](https://www.dropbox.com/s/d1o8tjrlab61xzw/art_attacc.mov?dl=0) to watch a video demonstration of the project.
 
 Nevertheless, here are the directions on how to play.
